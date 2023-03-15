@@ -1,5 +1,9 @@
 [
   {
+    "package": "escalation",
+    "oncran": true
+  },
+  {
     "package": "trialr",
     "oncran": true
   }

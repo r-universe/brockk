@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "escalation"]
+	path = escalation
+	url = https://github.com/brockk/escalation
+	shallow = true
+	registered = true
 [submodule "trialr"]
 	path = trialr
 	url = https://github.com/brockk/trialr
